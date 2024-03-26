@@ -1,16 +1,16 @@
 # Capstone_Project_FindDefault
 Credit Card Fraud Detection Capstone Project
 
-# Problem Statement:
+## Problem Statement:
 The problem statement chosen for this project is to predict fraudulent credit card transactions with the help of machine learning models.
 
 The dataset has a total of 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, so it needs to be handled before model building. In this project, we have to build a classification model to predict whether a transaction is fraudulent or not.
 
-# Data Dictionary:  
+## Data Dictionary:  
   
 The dataset contains transactions made by credit cards in September 2013 by European cardholders. This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
 
-# Prject Pipeline:
+## Prject Pipeline:
 
 - **Exploratory Data Analysis:** Analyze and understand the data to identify patterns, relationships, and trends in the data by using Descriptive Statistics and Visualizations.
 - **Data Cleaning:** This might include standardization, handling the missing values and outliers in the data.
